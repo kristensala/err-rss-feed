@@ -1,0 +1,17 @@
+.container {
+    padding-top: 20px;
+}
+
+.news-item-container {
+    margin-bottom: 20px;
+    border-bottom: 1px solid black;
+}
+
+.news-title {
+    font-size: 20px;
+}
+
+.news-date {
+    color: grey;
+    font-size: 14px;
+}
